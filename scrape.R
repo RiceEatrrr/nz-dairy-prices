@@ -82,21 +82,6 @@ if (file.exists(csv_path)) {
   cat("\nCreated", csv_path, "\n")
 }
 
-# ── Save milk price summary per scrape ────────────────────────────────────────
-price_summary <- all_contracts %>%
-  filter(product == "WMP", contract == "Contract 2", variant == "Regular - NZ") %>%
-  select(scrape_date, current) %>%
-  rename(wmp_c2_usd = current) %>%
-  mutate(wmp_c2_nzd_per_kg_ms = (wmp_c2_usd / 870) * 1.65)
-
-summary_path <- "data/milk_price_summary.csv"
-
-if (file.exists(summary_path)) {
-  write_csv(price_summary, summary_path, append = TRUE, col_names = FALSE)
-} else {
-  write_csv(price_summary, summary_path)
-}
-
 # ── Live USD/NZD exchange rate ─────────────────────────────────────────────────
 library(jsonlite)
 fx_url <- "https://api.frankfurter.app/latest?from=USD&to=NZD"
