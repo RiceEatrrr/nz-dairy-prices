@@ -335,3 +335,51 @@ BTR,Unsalted 25 kg - NZ,Contract 5,NA,NA,NA,2026-09-15
 BTR,Salted 25 kg - NZ,Contract 5,NA,NA,NA,2026-09-15
 BTR,Unsalted 25 kg - NZ,Contract 6,NA,NA,NA,2026-09-15
 BTR,Salted 25 kg - NZ,Contract 6,NA,NA,NA,2026-09-15
+WMP,Regular - NZ,Contract 1,3555,3565,-0.28,2026-10-01
+WMP,Instant - NZ,Contract 1,3680,3690,-0.27,2026-10-01
+WMP,Regular - NZ,Contract 2,3515,3555,-1.13,2026-10-01
+WMP,Instant - NZ,Contract 2,3610,3650,-1.1,2026-10-01
+WMP,Regular - NZ,Contract 3,3515,3535,-0.57,2026-10-01
+WMP,Instant - NZ,Contract 3,3630,3650,-0.55,2026-10-01
+WMP,Regular - NZ,Contract 4,3525,3560,-0.98,2026-10-01
+WMP,Instant - NZ,Contract 4,3620,3655,-0.96,2026-10-01
+WMP,Regular - NZ,Contract 5,NA,NA,NA,2026-10-01
+WMP,Instant - NZ,Contract 5,NA,NA,NA,2026-10-01
+WMP,Regular - NZ,Contract 6,NA,NA,NA,2026-10-01
+WMP,Instant - NZ,Contract 6,NA,NA,NA,2026-10-01
+SMP,Medium Heat - NZ,Contract 1,3705,3655,1.37,2026-10-01
+SMP,Low Heat - NZ,Contract 1,NA,3655,NA,2026-10-01
+SMP,Medium Heat - NZ,Contract 2,3675,3665,0.27,2026-10-01
+SMP,Low Heat - NZ,Contract 2,3705,3665,1.09,2026-10-01
+SMP,Medium Heat - NZ,Contract 3,3670,3675,-0.14,2026-10-01
+SMP,Low Heat - NZ,Contract 3,3670,3675,-0.14,2026-10-01
+SMP,Medium Heat - NZ,Contract 4,3695,3665,0.82,2026-10-01
+SMP,Low Heat - NZ,Contract 4,3695,3665,0.82,2026-10-01
+SMP,Medium Heat - NZ,Contract 5,NA,NA,NA,2026-10-01
+SMP,Low Heat - NZ,Contract 5,NA,NA,NA,2026-10-01
+SMP,Medium Heat - NZ,Contract 6,NA,NA,NA,2026-10-01
+SMP,Low Heat - NZ,Contract 6,NA,NA,NA,2026-10-01
+AMF,Premium 210 kg Drum - NZ,Contract 1,5740,5900,-2.71,2026-10-01
+AMF,Regular 210 kg Drum - NZ/AU,Contract 1,5720,5940,-3.7,2026-10-01
+AMF,Premium 210 kg Drum - NZ,Contract 2,5715,5940,-3.79,2026-10-01
+AMF,Regular 210 kg Drum - NZ/AU,Contract 2,5640,5865,-3.84,2026-10-01
+AMF,Premium 210 kg Drum - NZ,Contract 3,5765,5925,-2.7,2026-10-01
+AMF,Regular 210 kg Drum - NZ/AU,Contract 3,5690,5890,-3.4,2026-10-01
+AMF,Premium 210 kg Drum - NZ,Contract 4,5845,5915,-1.18,2026-10-01
+AMF,Regular 210 kg Drum - NZ/AU,Contract 4,5770,5880,-1.87,2026-10-01
+AMF,Premium 210 kg Drum - NZ,Contract 5,NA,NA,NA,2026-10-01
+AMF,Regular 210 kg Drum - NZ/AU,Contract 5,NA,NA,NA,2026-10-01
+AMF,Premium 210 kg Drum - NZ,Contract 6,NA,NA,NA,2026-10-01
+AMF,Regular 210 kg Drum - NZ/AU,Contract 6,NA,NA,NA,2026-10-01
+BTR,Unsalted 25 kg - NZ,Contract 1,4755,5060,-6.03,2026-10-01
+BTR,Salted 25 kg - NZ,Contract 1,4755,5095,-6.67,2026-10-01
+BTR,Unsalted 25 kg - NZ,Contract 2,4755,5050,-5.84,2026-10-01
+BTR,Salted 25 kg - NZ,Contract 2,4790,5050,-5.15,2026-10-01
+BTR,Unsalted 25 kg - NZ,Contract 3,4725,5055,-6.53,2026-10-01
+BTR,Salted 25 kg - NZ,Contract 3,4760,5055,-5.84,2026-10-01
+BTR,Unsalted 25 kg - NZ,Contract 4,4860,5005,-2.9,2026-10-01
+BTR,Salted 25 kg - NZ,Contract 4,4860,5040,-3.57,2026-10-01
+BTR,Unsalted 25 kg - NZ,Contract 5,NA,NA,NA,2026-10-01
+BTR,Salted 25 kg - NZ,Contract 5,NA,NA,NA,2026-10-01
+BTR,Unsalted 25 kg - NZ,Contract 6,NA,NA,NA,2026-10-01
+BTR,Salted 25 kg - NZ,Contract 6,NA,NA,NA,2026-10-01
